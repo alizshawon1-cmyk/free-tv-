@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangla Free Web TV</title>
+    
+    <!-- Bootstrap 5 CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Video.js CSS CDN -->
+    <link href="https://vjs.zencdn.net/8.10.0/video-js.css" rel="stylesheet" />
+    
+    <style>
+        body {
+            background-color: #0b0c10;
+            color: #c5c6c7;
+            font-family: Arial, sans-serif;
+        }
+        .header-title {
+            color: #66fcf1;
+            font-weight: bold;
+        }
+        .player-wrapper {
+            border: 3px solid #1f2833;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #000;
+        }
+        .footer {
+            margin-top: 50px;
+            color: #45f3ff;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container text-center py-5">
+        <!-- Header -->
+        <h1 class="header-title mb-2">🔴 বাংলা ফ্রি ওয়েব টিভি (Free Live TV)</h1>
+        <p class="text-muted mb-4">যেকোনো ব্রাউজার থেকে সরাসরি ফ্রিতে বাংলা চ্যানেল দেখুন</p>
+
+        <div class="row justify-content-center">
+            <div class="col-lg-9 col-md-12">
+                
+                <!-- Video Player -->
+                <div class="player-wrapper shadow-lg ratio ratio-16x9">
+                    <video
+                        id="free-bangla-tv"
+                        class="video-js vjs-default-skin vjs-big-play-centered"
+                        controls
+                        preload="auto"
+                        autoplay
+                        muted
+                        data-setup="{}">
+                        
+                        <!-- Real-working Public Test HLS Link (Bangla News/Global Feed) -->
+                        <source src="https://maddog-live-cdn.scadigital.io/live/samay/playlist.m3u8" type="application/x-mpegURL">
+                        
+                        <p class="vjs-no-js">
+                            এই ভিডিওটি দেখতে আপনার ব্রাউজারে JavaScript এনাবল করুন।
+                        </p>
+                    </video>
+                </div>
+
+                <!-- Channel Info -->
+                <div class="mt-4 p-3 bg-dark text-start rounded">
+                    <h5 class="text-white">📺 চ্যানেল: লাইভ নিউজ ও বিনোদন</h5>
+                    <p class="m-0 text-muted">Status: <span class="text-success">● Online</span> | Stream Type: HLS (High Quality)</p>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Footnote -->
+        <p class="footer">💡 এই কোডটি যেকোনো হোস্টিং (যেমন GitHub Pages, Netlify)-এ আপলোড করলে এটি একটি লাইভ ওয়েব লিংকে পরিণত হবে।</p>
+    </div>
+
+    <!-- Video.js JS CDN -->
+    <script src="https://vjs.zencdn.net/8.10.0/video.min.js"></script>
+</body>
+</html>
