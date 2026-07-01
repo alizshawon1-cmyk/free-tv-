@@ -102,12 +102,32 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 group-title="Kolkata",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
+#EXTINF:-1 group-title="Movies",Zee Bangla HD
+https://sm-monirul.top/toffee/play/zee_bangla.m3u8
+
+#EXTINF:-1,Sun Bangla
+http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1,Colors Bangla
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1,Colors Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8
+
+#EXTINF:-1,Jalsha Movies
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Live Bangla TV Stream
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Aakaash Aath
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
+
 #EXTINF:-1 group-title="Kolkata",Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 # --- MOVIES ---
-#EXTINF:-1 group-title="Movies",Zee Bangla HD
-https://sm-monirul.top/toffee/play/zee_bangla.m3u8
+
 #EXTINF:-1 group-title="Movies",Zee Bollywood
 https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
 #EXTINF:-1 group-title="Movies",Zee Action
@@ -159,7 +179,25 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="Movies",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
+# --- DOCUMENTARY ---
+#EXTINF:-1 group-title="Doc",Discovery SD
+https://sm-monirul.top/toffee/play/discovery_sd.m3u8
+
+#EXTINF:-1,Nat Geo Bangla
+http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Documentary",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 group-title="Documentary",Discover Pakistan
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+
+
 # --- MUSIC ---
+#EXTINF:-1,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,Bollywood Hits 24x7
+https://cdn-2.pishow.tv/live/227/master.m3u
 #EXTINF:-1 group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 group-title="Music",9X Jalwa
@@ -184,53 +222,69 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
 # --- SPORTS ---
-#EXTINF:-1 group-title="Sports",Sony Sports 1 HD
+
+#EXTINF:-1,A Sports
+http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8
+
+#EXTINF:-1,PTV Sports
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Sports 1
+http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8
+
+#EXTINF:-1,Star Sports Select 1
+http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8
+
+#EXTINF:-1,Star Sports Select 2
+http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8
+
+#EXTINF:-1,Star Sports 3
+http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Sports",Sony Sports Ten 1 HD
 https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 2 HD
+
+#EXTINF:-1 group-title="Sports",Sony Sports Ten 2 HD
 https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8
-#EXTINF:-1 group-title="Sports",Sony Sports 5 HD
+
+#EXTINF:-1 group-title="Sports",Sony Sports Ten 5 HD
 https://sm-monirul.top/toffee/play/sony_sports_5_hd.m3u8
+
 #EXTINF:-1 group-title="Sports",Ten Cricket
 https://sm-monirul.top/toffee/play/ten_cricket.m3u8
+
 #EXTINF:-1 group-title="Sports",Euro Sports HD
 https://sm-monirul.top/toffee/play/euro_sports_hd.m3u8
-#EXTINF:-1 group-title="Sports",fusball Sports
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sports
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 group-title="Sports",Bein Sports Extra
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Sports",Sofast TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+
 #EXTINF:-1 group-title="Sports",As Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 group-title="Sports",NBC Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 group-title="Sports",TUDN Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 group-title="Sports",Dazn Direct
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 group-title="Sports",PTV Sports
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",4K Good TV
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.m3u8
+
 #EXTINF:-1 group-title="Sports",Bein Sports Xumo
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Sports",Sports Stream 23
+
+#EXTINF:-1 group-title="Sports1",Sports Stream 23
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 group-title="Sports",Live Sport 145
+
+#EXTINF:-1 group-title="Sports3",Live Sport 145
 http://145.239.5.177:80/559/index.m3u8
-#EXTINF:-1 group-title="Sports",Sports Stream 117
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-#EXTINF:-1 group-title="Sports",Sports Stream 52
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-#EXTINF:-1 group-title="Sports",AndFlix HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
+
+#EXTINF:-1 group-title="Sports",Bein Sports Extra
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
+
 #EXTINF:-1 group-title="Sports",OTT Club Stream
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/18000/index.m3u8
+
 #EXTINF:-1 group-title="Sports",Fox Sports
 http://84.17.50.102/fox/index.m3u8
 
-# --- DOCUMENTARY ---
-#EXTINF:-1 group-title="Doc",Discovery SD
-https://sm-monirul.top/toffee/play/discovery_sd.m3u8
+#EXTINF:-1 group-title="Sports",Caze TV 720p
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+
+
