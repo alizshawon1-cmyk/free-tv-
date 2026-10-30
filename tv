@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ENTER 10 BANGLA
+http://103.165.93.31:8095/enter10Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NTV
+http://103.165.93.31:8095/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",BTV
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colors Bangla Cinema
+http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",জলসা Movie HD
+http://103.165.93.31:8095/jalshaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",SOMOY TV
+http://103.165.93.31:8095/somoyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",127.ATN Bangla
+http://103.165.93.31:8095/atnBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Channel 24
+http://103.165.93.31:8095/channel24/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Somoy
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",SONY AATH
+http://103.165.93.31:8095/sonyAath/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Nick
+http://103.165.93.31:8095/nick/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colours Bangla Chinema
+http://103.165.93.31:8095/colorsBanglaChinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colors Bangla
+http://103.165.93.31:8095/colorsBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Deepto TV
+http://103.165.93.31:8095/deepto/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colors Bangla HD
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Jalsa
+http://103.165.93.31:8095/starJalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Enterr10 Bangla
+http://103.165.93.31:8095/enter10Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Jalsha Movies HD
+http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Ekattor
+http://103.165.93.31:8095/ekattorTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ATN News
+http://103.165.93.31:8095/atnNews/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Jamuna TV
+http://103.165.93.31:8095/jamunaTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Bangla Vision
+http://103.165.93.31:8095/banglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Discovery HD
+http://103.165.93.31:8095/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Channel 24
+http://103.165.93.31:8095/channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sangeet Bangla
+http://103.165.93.31:8095/sangeetBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Duronto TV
+http://103.165.93.31:8095/duranta/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Cartoon Network
+http://103.165.93.31:8095/cartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Channel I
+http://103.165.93.31:8095/channelI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Discovery
+http://103.165.93.31:8095/discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Ekattor TV
+http://103.165.93.31:8095/ekattorTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Nickjr
+http://103.165.93.31:8095/nickJr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sonic
+http://103.165.93.31:8095/sonic/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee Bangla HD
+http://103.165.93.31:8095/zeeBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Deepto Tv
+http://103.165.93.31:8095/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony AATH
+http://103.165.93.31:8095/sonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NTV
+http://103.165.93.31:8095/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Bangla Vision
+http://103.165.93.31:8095/banglaVision/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Sports 2 HD
+http://103.151.60.162:2122/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR-SPORTS Select-1
+http://103.151.60.162:2122/play/a026/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star JALSHA MOVIES (Sun)
+http://103.151.60.162:2122/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee cinema HD
+http://103.151.60.162:2122/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee Bangla SD
+http://103.151.60.162:2122/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Hits
+http://103.151.60.162:2122/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Aat
+http://103.151.60.162:2122/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Tsports
+http://103.151.60.162:2122/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Jalsha BD IP
+http://103.151.60.162:2122/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Plus SD
+http://103.151.60.162:2122/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR BANGLA
+http://103.151.60.162:2122/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",HITS MOVIES
+http://103.151.60.162:2122/play/a01h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR-SPORTS Select-2
+http://103.151.60.162:2122/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",National Geography HD
+http://103.151.60.162:2122/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",HBO HD
+http://103.151.60.162:2122/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",CHANNEL 24
+https://stream.ottplus.live/live/channel_24_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ATN NEWS HD
+http://103.165.93.31:8095/atnNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Jamuna Tv
+http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",CHANNEL I HD
+http://103.165.93.31:8095/channelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Green Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",GTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Deshi TV HD
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Ekhon tv
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ATN Bangla
+http://103.165.93.31:8095/atnBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ATN Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Global TV
+https://stream.ottplus.live/live/global_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NRB HD
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Drama 24
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sanonda Tv (ALT)
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Sports 1 Hindi SD
+http://66.102.126.10:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR-SPORTS-1 (Hindi)
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Sports 1 HD
+http://66.102.126.10:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Sports 3 SD
+http://66.102.126.10:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee Bangla sd
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Plus HD (Tata play)3
+https://go.skym3u.top/live/69346/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456f7b6b363d09040a5a32711454.m3u8?t=6167&s=9b7&id=jtqx.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Plus HD (Tata play)4
+http://66.102.126.10:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony SabSD 2
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Aat 1
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee TV SD
+https://stream.ottplus.bd/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney (Tata play)1
+https://go.skym3u.top/live/69346/3b1f0d3d095a7070746d7d5a515c456b744f5d525b595d6f02001d463f0a006252456e336b363d09040a5a32711454.m3u8?t=6167&s=9b7&id=jtqx.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney (Tata play)2
+http://103.155.18.186:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney (airtle)1
+https://go.skym3u.top/live/69346/3b1f0d3d404f706d263b3a1506171a7131081804414c281e711f617e142435091c0533233d71230511.m3u8?t=6167&s=9b7&id=jtqx.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney HD (Tata play)1
+http://66.102.126.10:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney HD (Tata play)2
+http://1716770.01739.aquafina.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts?token=ShJcU0BbQQNHAFcAVFRWWggGAlRWBlVVVwBUUVYACwAEAg1RUAAGX10bGBpEF0dcWF1vWQIXXlAIVVYGSUZGQVRCa1tXEVkbVA4FDgBUBRsVEkRZC1BGWwBVWg9UXAQCBgkYEENaBxtfGwUBAlAGCAgSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNxcHwTZwZVAFpbVRVPF1tQREJRElBGWxNRVQ5cRh8QUl9BXEdBGhtfG3Z8FU8XXEFEVV4VXAsPE1hAQxZGHxBYQ2tAVkAXSwBYWV1FQQ8bCRIcEgtUHD5SDQxZAAdHW15eRxAJEVIbSRtZV1kKQVZLb0BZAhdeQwRaUwNHSBFHRFlQEAkRWglWDAMPAFNRCl9TVgNTVwYFCFZWBVUCBFAIUwAFAlFBRA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Disney HD (Tata play)3
+http://1204786.01739.aquafina.live/live/YqXTywueEV/damp2purchase/19741.ts?token=ShJcU0BbQQNHAFYMBloNCl0IVARfBQUEVwZQVQYGUQcBAQcFVwBXC10bGBpEF0dcWF1vWQIXXlAIVVYGSUZGQVRCa1tXEVkbVAsEDABbAxsVEkRZC1BGWwBVWg9UXAQCCQEYEENaBxtfGwUBAlAGCAgSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNxcHwTZwZVAFpbVRVPF1tQREJRElBGWxNRVQ5cRh8QUl9BXEdBGhtfG3Z8FU8XXEFEVV4VXAsPE1hAQxZGHxBYQ2tAVkAXSwBYWV1FQQ8bCRIcEgtUHD5SDQxZAAdHW15eRxAJEVIbSRtZV1kKQVZLb0BZAhdeQwRaUwNHSBFHRFlQEAkRVgEGCVYIUlANWAAJUgQCAQdTBgAADgBTC1YHAgFXBwdBRA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Super Hungama (Tata play)1
+http://1716770.01739.aquafina.live/live/1Aoen7elp5/IgMJ60tmAa/66162.ts?token=ShJcU0BbQQNHWwZeBFdRCVwAVAFeA1FVUFsHDlYFVgYFBQ0KC1FbDVIbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbVA4FDgBUBRsVEkRZC1BGWwBVWg9UXAQCCQQYEENaBxtfGwcIBVcBDgkSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNxcHwTZwZVAFpbVRVPF1tQREJRElBGWxNTVw5WRh8QUl9BXEdBGhtfG3Z8FU8XXEFEVV4VXAsPE1hAQxZGHxBYQ2tAVkAXSwBYWV1FQQ8bCRIcEgtUHD5SDQxZAAdHW15eRxAJEVIbSRtZV1kKQVZLb0BZAhdeQwdVWwFHSBFHRFlQEAkRUVsGCQANVlBRCQoGVAACUABQVQZUUwddCwIEBlIABwtBRA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Super Hungama (Tata play)2
+http://1204786.01739.aquafina.live/live/YqXTywueEV/damp2purchase/66162.ts?token=ShJcU0BbQQNHDANcUVsMXV0GAlJWVAFYUARVVlwGAVMHUwNUBFdUX1EbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbVAsEDABbAxsVEkRZC1BGWwBVWg9UXAQCCQYYEENaBxtfGwcIBVcBDgkSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNxcHwTZwZVAFpbVRVPF1tQREJRElBGWxNTVw5WRh8QUl9BXEdBGhtfG3Z8FU8XXEFEVV4VXAsPE1hAQxZGHxBYQ2tAVkAXSwBYWV1FQQ8bCRIcEgtUHD5SDQxZAAdHW15eRxAJEVIbSRtZV1kKQVZLb0BZAhdeQwdVWwFHSBFHRFlQEAkRAQxVWg0JD1JRXwEGBwlSV1VUUAdVBwZWBQEICQIEV1VBRA==
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",BAL BHARAT (Tata play)1
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/355286.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",BAL BHARAT (Tata play)2
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/355286.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sonic (Tata Play)1
+http://66.102.126.10:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Nick HD (Tata play)2
+http://116.90.120.157:8000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Nick (Tata Play)1
+http://66.102.126.10:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony yay bangla 1
+https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony yay bangla (jio)2
+http://live.balajibroadband.com:3500/render.m3u8?auth=eMsmn2a29Rn1qY3EFIlGc-lrLm27xr9gRj1ft_BaMqBYTRbrMemQmE3a4JmBfKlEuv9oxLVHFk6LAytKtSbjHGCxCoZ39L690WJMtZG5haLyRJ6NCKFZEG63MgRD12MSz03vj_QV7dnfECqM5NlykcjF5sMHkKMBnCWjJIWTnfkUYq4M055Qa79HmBLxOkjTOQyuSYv36h1T_6MfFr4NIhRZxZcWfwKaGjKXHIktnCUXhmb_b8wvrBZBBUYt2qC5hiMY657j_3GNetpoIbeOhiiYR8BwNsOFokmb_hAaucaxIJZ_hipLaVxPuK7gQwV8Ikp_L90EezBqlS3sDKag0MwtU7gkB63iSGg=&channel_key_id=3424
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Cartoon Network (Toffee)
+https://stream.ottplus.bd/live/cn_sd_abr/live/cn_sd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Cartoon Network HD 1
+https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Pogo 1
+https://stream.ottplus.bd/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Discovery Kids
+https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Green Gold TV India
+https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Max SD 1
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Max 2 (Toffee)2
+https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee cinema HD (Toffee)2
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee cinema SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee action (Toffee)
+https://stream.ottplus.bd/live/zee_action_abr/live/zee_action_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",And Pictures SD
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",And Pictures HD (Tata Play)
+http://66.102.126.10:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star gold HD (Tata play)3
+http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Gold Romance (Tata play)1
+http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Gold Select HD (Tata Play)2
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Star Gold Thrills (Tata Play)
+http://66.102.126.10:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colors Cineplex Superhit (jio)2
+http://live.balajibroadband.com:3500/render.m3u8?auth=4-kYdZ3fJXqquELsRBiILih-57qr0pBM0p7Q2MuI2sEVMNdRbkoKL6rwDL6KTTkRNAzSNgoJCXq39JVlVlr33tE6oYIee4ugEgrzSPHg8E5MUcMkZTY3_jfzZgx0Kj31JvjM90Nv3-gMNEhZB9PYj7N3fQDWC9LBrl9BH5PVdhifpW16iI40LpHlW30ARD8y9ZYVNXql7E5l9ncn8NJYLOUCIlNhpMZcavcfUldjgFfyLIChrx9MH-AVYZ6p6vJwzRF7ZWFn3KSsN4-9eXXHodJB46ACleoAwD37eZc5CN7UL5RNQKBYOK8qch0nWXhgVY9NdppMAXHMS_SWeffwhVXjGoJ7RMbTOXr396DDSoZRlB7RbYcue3Br0l86U9xdMVY=&channel_key_id=1450
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Colors Cineplex Bollywood (jio)2
+http://live.balajibroadband.com:3500/render.m3u8?auth=sH3F5Hbv3DDhZxBL4Yg0HKt0DQuvmqb4jNute50CIPjIapf11H0R7Yl4MqRR1SyQ1VgvddKJwGZlCNj22-0L1k7DptoaLf-JFyEDJvqiInukgJlb8O7mn-yL2pNkjqIfFMuHuIV5OMV-wU8FLq7uDWL5LajBk7ZdyC4FToyQ9nxaqnZF0zKy3xHzHZeUpfaOY-jQlHGfZfJWvYGEWIW_AJvF_dQR40mHI1ohi895cOexqlvQna7OfTBq6P50ycOkxzgFu4kN5dBMP-51BJNE539tyeHpLoHJuTcRWbCIMX0ni0HAERCNTA25xmCucjbgcc4iK5LPiaZVab4SMMnpONfbKHfsaL8WN7QwM7fUNugePbNvsj_3kxeupUFZTNMHa_PEMw==&channel_key_id=1763
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee bangla cinema
+https://stream.ottplus.bd/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee bangla cinema 1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee bangla cinema 2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",9X Jalwa 1
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",9X Jhakaas 1
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",9XM 1
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",9X Tashan 1
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ZOOM
+https://go.skym3u.top/live/69346/3b1f0d3d404f706d203e3a43061d1b382e044202010e4a335b5e575721441121405a3a34213127422b31353270541d0a3c3b0c14517b03771926153b7824702f252c2708135c196c3759.m3u8?t=6167&s=9b7&id=jtqx.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sangeet Bangla (jio)2
+http://live.balajibroadband.com:3500/render.m3u8?auth=QjjYTFbvdSrBl8gvcUPZ0GcknKbNzCFF0eCJd4Yn9fv3nTKxRvJeqfODT6_-UELOALx7upnQoMbEk8tQ1oyNo_a9rB_uKdiC80jTuDKMgojXiKeyVLO1TclQ5qcCadSsNhNsNV_rB5b9sdA93gzP8bZi3oh67lnAPXTrFkyOtEsQNKawNtxwuEFDi22fOEcPpF85K1ebS9skLL13GakCQHFE51lyr7W54NyyaLbBbNYaarzRjuxVRjyQNiT66eBSjNmL3qLm6pkBzReW9x0Aza7DgNPFWuba_MIYUQiY5z-BaWVgO-NMY5EQdCvZyWFy6iGI50Jg1c0KjFKyeDoCwsslR-a7XiuUHxR-HO8RapqjNQ==&channel_key_id=740
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",B4U MUSIC
+http://66.102.126.10:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Aaj Tak
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee News
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeenews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8744f9fb-d696-4204-9795-5215ad930c39/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NDTV INDIA
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32abd651-2f9b-4c62-b662-b03dd2ee748e/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NDTV Rajasthan
+https://vg-ndtvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Kolkata TV
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d4017753-7155-4cee-8755-10f1b3eb6d77/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Rplus News
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",LotusTV
+http://66.102.126.10:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",iFilm English
+http://66.102.126.10:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR MOVIES HD (Tata play)1
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",STAR Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony pix HD (Tata Play)
+http://66.102.126.10:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",ZEE BANGLA HD (Sun)
+http://103.165.93.31:8095/zeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",CARTOON NETWORK HD (Sun)
+http://103.165.93.31:8095/cartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",POGO (Sun)
+http://103.165.93.31:8095/pogo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",DURANTA TV (Sun)
+http://103.165.93.31:8095/duranta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",NICK (Sun)
+http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",SONIC (Sun)
+http://103.165.93.31:8095/sonic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",SONY YAY (Sun)
+http://103.165.93.31:8095/sonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Metv
+http://103.114.11.37:8081/Metv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",SRK TV
+http://103.114.11.37:8081/SRKTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",HUM TV
+https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",&TV
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Entertainment
+https://stream.ottplus.bd/live/sony_ent_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony 8
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony Sab
+https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee Bollywood
+https://stream.ottplus.bd/live/zee_bollywood_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Zee TV
+https://stream.ottplus.bd/live/zee_tv_hd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Discovery kids
+https://stream.ottplus.bd/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",POGO
+https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Sony YaY
+https://stream.ottplus.bd/live/sony_yay_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Discovery Kids
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapas-Creation/TVG-LOGO/refs/heads/main/1%20Logo.png" group-title="General",Pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
